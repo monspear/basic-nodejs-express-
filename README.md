@@ -1,4 +1,4 @@
-# basic-nodejs
+# basic-nodejs-express-
 기초적인 nodejs(express) 사용법입니다. <br>
 1. 파일을 다운로드 받는다.<br>
 2. vscode로 열고 f5으로 서버를 실행시켜준다.<br>
